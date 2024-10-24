@@ -12,6 +12,7 @@ function App() {
   return (
     <>
       <h1>Hello vite app</h1>
+      <p>Login form</p>
     </>
   );
 }
